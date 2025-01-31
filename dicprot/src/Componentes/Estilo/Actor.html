@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Persona de palitos</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0;
+        }
+
+        .stickman {
+            position: relative;
+            width: 100px;
+            height: 200px;
+        }
+
+        /* Cabeza */
+        .head {
+            width: 50px;
+            height: 50px;
+            background-color: #333;
+            border-radius: 50%;
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        /* Cuerpo */
+        .body {
+            width: 6px;
+            height: 80px;
+            background-color: #333;
+            position: absolute;
+            top: 60px;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+
+        /* Brazos */
+        .arm {
+            width: 60px;
+            height: 6px;
+            background-color: #333;
+            position: absolute;
+            top: 80px;
+        }
+
+        .left-arm {
+            left: 0;
+            transform-origin: left;
+            transform: rotate(45deg);
+        }
+
+        .right-arm {
+            right: 0;
+            transform-origin: right;
+            transform: rotate(-45deg);
+        }
+
+        /* Piernas */
+        .leg {
+            width: 6px;
+            height: 80px;
+            background-color: #333;
+            position: absolute;
+            top: 140px;
+        }
+
+        .left-leg {
+            left: 35%;
+            transform-origin: top;
+            transform: rotate(20deg);
+        }
+
+        .right-leg {
+            right: 35%;
+            transform-origin: top;
+            transform: rotate(-20deg);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="stickman">
+        <div class="head"></div>
+        <div class="body"></div>
+        <div class="arm left-arm"></div>
+        <div class="arm right-arm"></div>
+        <div class="leg left-leg"></div>
+        <div class="leg right-leg"></div>
+    </div>
+</body>
+
+</html>
