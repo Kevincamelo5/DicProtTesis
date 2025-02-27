@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa5c86e7-c512-4469-8105-0c533af45cb4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/dicprot/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/Componentes/AcercaDe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/Componentes/BarraDeTareas.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/Componentes/BotonAcerca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/Componentes/BotonCierre.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/Componentes/CargarPrototipo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/Componentes/Diccionario.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/Componentes/Estilo/AcercaDe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/Componentes/Estilo/Actor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/Componentes/Estilo/BarraDeTareas.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/Componentes/GeneradorPrototipos.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/Componentes/SpinnerCarga.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/Main.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dicprot/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="rx9p1f3c" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2sgBOlEeW0e7rWQyOHPgqCYDFaH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;prueba__de__elementos&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa5c86e7-c512-4469-8105-0c533af45cb4" name="Changes" comment="" />
+      <created>1738867315269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738867315269</updated>
+      <workItem from="1738867317518" duration="23000" />
+      <workItem from="1738900235882" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/dicprot/src/App.js" />
+      </list>
+    </option>
+  </component>
+</project>
